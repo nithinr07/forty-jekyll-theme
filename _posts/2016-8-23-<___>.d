@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Scraping
+title: <___>
 description: Lorem etiam nullam
 image: assets/images/pic03.jpg
 published: true
