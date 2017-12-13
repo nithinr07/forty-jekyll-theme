@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <___>
-description: Lorem etiam nullam
+description: 
 image: assets/images/pic03.jpg
 published: true
 ---
